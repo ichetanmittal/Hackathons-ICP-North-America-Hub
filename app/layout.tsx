@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: 'ICP: North America Hub',
   description: 'Platform for ICP Hub North America',
   icons: {
-    icon: '/assets/images/logo.svg'
+    icon: '/assets/images/favicon.png'
   }
 }
 
